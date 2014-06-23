@@ -1,0 +1,4 @@
+CourseProject
+=============
+
+Coursera JHBSPH course
